@@ -11,7 +11,7 @@ namespace PDC03Module04
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new NavigationPage(new Home());
         }
 
         protected override void OnStart()

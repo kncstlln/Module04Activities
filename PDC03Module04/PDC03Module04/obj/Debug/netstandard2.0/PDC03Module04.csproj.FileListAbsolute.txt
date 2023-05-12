@@ -7,7 +7,6 @@ C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\n
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Activity2.xaml.g.cs
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Page1.xaml.g.cs
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
@@ -22,3 +21,9 @@ C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\n
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\refint\PDC03Module04.dll
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\PDC03Module04.pdb
 C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\ref\PDC03Module04.dll
+C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Activity03.xaml.g.cs
+C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Activity03Page2.xaml.g.cs
+C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Activity04.xaml.g.cs
+C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\Activity05.xaml.g.cs
+C:\Users\User\source\repos\PDC03Module04\PDC03Module04\PDC03Module04\obj\Debug\netstandard2.0\DetailedPage.xaml.g.cs

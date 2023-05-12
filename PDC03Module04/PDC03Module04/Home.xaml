@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC03Module04.Home">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Button Text="Activity1" Clicked="OpenActivity1"></Button>
+        <Button Text="Activity2" Clicked="OpenActivity2"></Button>
+        <Button Text="Activity3" Clicked="OpenActivity3"></Button>
+        <Button Text="Activity4" Clicked="OpenActivity4"></Button>
+        <Button Text="Activity5" Clicked="OpenActivity5"></Button>
+    </StackLayout>
+
+</ContentPage>
